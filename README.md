@@ -10,10 +10,10 @@ The E-commerce Sales Dashboard is an interactive Power BI visualization designed
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Core platform for dashboard creation and visualization.
-🧠 DAX (Data Analysis Expressions) – For dynamic KPIs, profit margin calculations, and conditional trends.
-📝 Data Modeling – Structured relationships across product categories, regions, and sales metrics for seamless filtering.
-📁 File Format – .pbix for report development and .png for sharing/preview.
+ * 📊 Power BI Desktop – Core platform for dashboard creation and visualization.
+ * 🧠 DAX (Data Analysis Expressions) – For dynamic KPIs, profit margin calculations, and conditional trends.
+ * 📝 Data Modeling – Structured relationships across product categories, regions, and sales metrics for seamless filtering.
+ * 📁 File Format – .pbix for report development and .png for sharing/preview.
 
 **Data Source**
 
