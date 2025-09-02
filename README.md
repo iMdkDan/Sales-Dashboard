@@ -43,4 +43,4 @@ The company manages diverse product categories and regions, but lacks a consolid
   * Sales by State (Map): Geospatial visualization of sales performance across U.S. states.
 
   **Screenshots / Demos**
-  
+  https://github.com/iMdkDan/Sales-Dashboard/blob/main/Dashboard.png
